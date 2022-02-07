@@ -140,11 +140,11 @@ h2 {
 
 /* Background */
 .background {
-  background: url(../images/pngwing.com\ \(6\).png) no-repeat 50% 100%;
+  background: url(../images/bg11.png) no-repeat 50% 100%;
   bottom: -20px;
-  background-size: contain;
+  background-size: cover;
   position: absolute;
-  width: 110%;
+  width: 120%;
   left: -5%;
   top: -5%;
 }
