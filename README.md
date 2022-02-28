@@ -1,2 +1,1 @@
-# ReactJS.JSX.ComingSoonPage
-Imminent theme, reactive page design. 
+Coming Soon Template
