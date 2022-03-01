@@ -53,6 +53,7 @@ section { overflow: hidden; }
 -------------------------------------------------------------- */
 a {
     text-decoration: none;
+	color: white;
 }
 
 h1, h2 { margin: 0; }
@@ -62,7 +63,8 @@ h1 {
 	font-weight: 800;
 	line-height: 80px;
 	letter-spacing: -0.08em;
-	color: #161a1b; 
+	color: white;
+	opacity: 0.75;
 }
 
 h2 {
@@ -71,7 +73,7 @@ h2 {
 	line-height: 1em;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
-	color: #161a1b;
+	color: white;
 }
 
 #countdown div span {
@@ -92,6 +94,7 @@ h2 {
 	font-size: 18px;
 	margin-top: 5px;
 	margin-bottom: 0px;
+	color: white;
 }
 
 
@@ -140,7 +143,7 @@ h2 {
 
 /* Background */
 .background {
-  background: url(../images/bg11.png) no-repeat 50% 100%;
+  background: url(../images/bg3.jpg) no-repeat 50% 100%;
   bottom: -20px;
   background-size: cover;
   position: absolute;
@@ -165,6 +168,7 @@ h2 {
 	position: absolute;
 	z-index: 2;
 	top: 10%;
+	color: white;
 }
 
 .line {
@@ -172,7 +176,7 @@ h2 {
 	margin: 0 auto;
 	width: 60px;
 	height: 1px;
-	background: #00d9ec;
+	background: white;
 	margin-top: 10px;
 }
 
@@ -192,6 +196,7 @@ h2 {
 	text-align: center;
 	list-style: none;
 	list-style-type: none;
+	color: grey;
 }
 
 .contact .icons li {
@@ -209,7 +214,7 @@ h2 {
 	-webkit-transition: opacity 0.3s;
 	-moz-transition: opacity 0.3s;
 	transition: opacity 0.3s;
-	color: black;
+	color: white;
 	font-size: 24px;
 }
 
